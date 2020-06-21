@@ -38,11 +38,7 @@ function convertHTML(str) {
   console.log(txt1);
   
   return txt1;
-
   
 }
-
-
-
 
 convertHTML("Dolce & Gabbana");
